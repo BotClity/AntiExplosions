@@ -1,0 +1,4 @@
+name: MineQuar
+version: '${project.version}'
+main: com.botclity.minequar.MineQuar
+api-version: 1.16
